@@ -3,11 +3,11 @@ import { IConfig } from './src/types'
 const c: IConfig = {
   // Deployment language - 部署语言
   // zh-CN | en
-  language: 'en',
+  language: 'zh-CN',
 
   // [Mondatory], Please replace following Github url with your own Github address which you forked in.
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/cyanogenaq/nav',
 
   // Deployment branch name
   // 部署分支
@@ -29,15 +29,15 @@ const c: IConfig = {
 
   // Your website address is good for SEO
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://cyanogenaq.github.io/nav',
 
   // Site title
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '氰化导航 - 精选实用导航网站',
 
   // Site description
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '氰化导航 - 精选实用导航网站',
 
   // Site keywords
   // 网站关键字
@@ -51,7 +51,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 nav3.cn, All Rights Reserved</div>
+    <div>Copyright © 2021-2021 cyanogenaq.github.io, All Rights Reserved</div>
   `,
 
   // Alibaba Vector Gallery https://www.iconfont.cn/
