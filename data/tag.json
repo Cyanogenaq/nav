@@ -18,5 +18,10 @@
     "color": "#C71D23",
     "createAt": "2021-10-19T07:29:30",
     "dest": "Gitee"
+  },
+  "PyPI": {
+    "color": "#ffd242",
+    "createAt": "2021-10-19T07:54:35",
+    "dest": "PyPI"
   }
 }
